@@ -2,15 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
+## Swetts Shop Flutter UI
 
-This project is a starting point for a Flutter application.
+![117877967_1960691597388419_2928823519093810619_n](https://user-images.githubusercontent.com/60913101/90530434-8b276d80-e17d-11ea-9996-1e8d4304ac8f.jpg)
+![117856329_777905739686145_5089784343853808395_n](https://user-images.githubusercontent.com/60913101/90530418-8793e680-e17d-11ea-95ce-dd28bded52a6.jpg)
+![117841276_2357067444602958_1562383065859734355_n](https://user-images.githubusercontent.com/60913101/90530496-a1352e00-e17d-11ea-9832-5b377b05a5dc.jpg)
+![117892645_345215386870396_7243464753430652443_n](https://user-images.githubusercontent.com/60913101/90530511-a5f9e200-e17d-11ea-8ad8-6d06a9103415.jpg)
+![117905712_311926430048839_2527887991316500774_n](https://user-images.githubusercontent.com/60913101/90530521-a98d6900-e17d-11ea-9ded-b489b72a29ce.jpg)
+![117894595_315325146348581_7638416958806865235_n](https://user-images.githubusercontent.com/60913101/90530543-ae521d00-e17d-11ea-9787-5299343987cd.jpg)
+![117901259_353980585614296_6793299943707442072_n](https://user-images.githubusercontent.com/60913101/90530557-b0b47700-e17d-11ea-88a2-8f045920deb6.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
